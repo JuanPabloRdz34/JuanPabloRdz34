@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JuanPabloRdz34
 - 👀 My interests: Sports algorithms,Data Science, Artificial Intelligence
-- 🌱 I’m currently studying Engineering in Data Sciewnce and Mathematics in Tecnologico de Monterrey (CCM)
+- 🌱 I’m currently studying Engineering in Data Science and Mathematics in Tecnologico de Monterrey (CCM)
 - 📫 My email: juanpablordz34@gmail.com
 
 <!---
