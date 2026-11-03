@@ -1,9 +1,10 @@
-- 👋 @JuanPabloRdz34
-- 👀 My interests: Sports algorithms,Artificial Intelligence
-- 🌱 I’m currently studying Engineering in Data Science and Mathematics at Tecnologico de Monterrey (CCM)
-- 📫 Email: juanpablordz34@gmail.com
+Juan Pablo Rodríguez García
 
-<!---
-JuanPabloRdz34/JuanPabloRdz34 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Data Scientist · Forecasting & Predictive Modeling
+
+🔭 Currently: Commercial Information Specialist (BI) at Coca-Cola FEMSA, building automated validation, alerting and reporting pipelines (Python, SQL, Databricks, Power BI, Power Automate)
+🎓 B.S. in Data Science & Mathematics, Tecnológico de Monterrey (2025)
+📈 Focus: time-series forecasting, predictive modeling, sports analytics
+🧰 Stack: Python (Pandas, NumPy, Scikit-learn), SQL, AWS, Power BI, TypeScript
+🌐 Portfolio: https://JuanPabloRdz34.github.io
+📫 juanpablordz34@gmail.com · LinkedIn
